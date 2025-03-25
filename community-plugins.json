@@ -16189,6 +16189,13 @@
     "author": "cactuzhead",
     "description": "Progress bars that can change color depending on completion value - fully customizable.",
     "repo": "cactuzhead/Advanced-Progress-Bars"
-}
+},
+{
+    "id": "ai-excerpt-generator",
+    "name": "AI Excerpt Generator",
+    "author": "iammatthias",
+    "description": "Create smart note excerpts with AI in your frontmatter",
+    "repo": "iammatthias/obsidian-ai-excerpt-generator"
+},
 ]
 
